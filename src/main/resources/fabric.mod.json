@@ -1,0 +1,37 @@
+{
+	"schemaVersion": 1,
+	"id": "deathcord-smp-mod",
+	"version": "${version}",
+	"name": "Deathcord SMP Mod",
+	"description": "This is a mod created for the Deathcord SMP. This mod adds new armor, tools, weapons, and effects for the different races. As well as other custom blocks and items.",
+	"authors": [
+		"CanadianLion"
+	],
+	"contact": {
+		"homepage": "https://canadianlion.net",
+		"sources": "https://github.com/Canadian-Lion-Mods/Deathcord-SMP-Mod"
+	},
+	"license": "MIT",
+	"icon": "assets/deathcord-smp-mod/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.canadianlion.deathcordsmpmod.DeathcordSMPMod"
+		],
+		"fabric-datagen": [
+			"net.canadianlion.deathcordsmpmod.DeathcordSMPModDataGenerator"
+		],
+		"client": [
+			"net.canadianlion.deathcordsmpmod.DeathcordSMPModClient"
+		]
+	},
+	"mixins": [
+		"deathcord-smp-mod.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.18.4",
+		"minecraft": "~1.21.1",
+		"java": ">=21",
+		"fabric-api": "*"
+	}
+}
