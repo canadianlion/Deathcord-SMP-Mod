@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "deathcordsmpmod:item/full_speed_ahead_music_disc"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "deathcordsmpmod:item/there_are_other_ways_music_disc"
+  }
+}

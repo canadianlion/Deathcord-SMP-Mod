@@ -1,0 +1,8 @@
+{
+  "comparator_output": 15,
+  "description": {
+    "translate": "item.deathcordsmpmod.warrior_of_the_mind_music_disc.desc"
+  },
+  "length_in_seconds": 208.0,
+  "sound_event": "deathcordsmpmod:warrior_of_the_mind"
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "deathcordsmpmod:item/no_longer_you_music_disc"
+  }
+}

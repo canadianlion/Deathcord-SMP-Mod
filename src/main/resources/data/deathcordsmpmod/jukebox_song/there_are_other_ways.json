@@ -1,0 +1,8 @@
+{
+  "comparator_output": 15,
+  "description": {
+    "translate": "item.deathcordsmpmod.there_are_other_ways_music_disc.desc"
+  },
+  "length_in_seconds": 208.0,
+  "sound_event": "deathcordsmpmod:there_are_other_ways"
+}

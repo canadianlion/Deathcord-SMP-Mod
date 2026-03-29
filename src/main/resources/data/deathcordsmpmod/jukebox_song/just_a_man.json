@@ -1,0 +1,8 @@
+{
+  "comparator_output": 15,
+  "description": {
+    "translate": "item.deathcordsmpmod.just_a_man_music_disc.desc"
+  },
+  "length_in_seconds": 148.0,
+  "sound_event": "deathcordsmpmod:just_a_man"
+}

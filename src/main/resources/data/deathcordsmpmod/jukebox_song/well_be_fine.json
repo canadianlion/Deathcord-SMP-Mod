@@ -1,0 +1,8 @@
+{
+  "comparator_output": 15,
+  "description": {
+    "translate": "item.deathcordsmpmod.well_be_fine_music_disc.desc"
+  },
+  "length_in_seconds": 126.0,
+  "sound_event": "deathcordsmpmod:well_be_fine"
+}

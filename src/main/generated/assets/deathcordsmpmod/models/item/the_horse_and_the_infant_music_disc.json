@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "deathcordsmpmod:item/the_horse_and_the_infant_music_disc"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "deathcordsmpmod:item/not_sorry_for_loving_you_music_disc"
+  }
+}

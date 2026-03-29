@@ -1,0 +1,8 @@
+{
+  "comparator_output": 15,
+  "description": {
+    "translate": "item.deathcordsmpmod.would_you_fall_in_love_with_me_again_music_disc.desc"
+  },
+  "length_in_seconds": 346.0,
+  "sound_event": "deathcordsmpmod:would_you_fall_in_love_with_me_again"
+}

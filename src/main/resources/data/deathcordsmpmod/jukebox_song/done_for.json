@@ -1,0 +1,8 @@
+{
+  "comparator_output": 15,
+  "description": {
+    "translate": "item.deathcordsmpmod.done_for_music_disc.desc"
+  },
+  "length_in_seconds": 147.0,
+  "sound_event": "deathcordsmpmod:done_for"
+}

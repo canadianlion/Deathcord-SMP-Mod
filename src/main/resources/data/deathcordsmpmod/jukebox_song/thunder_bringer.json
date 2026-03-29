@@ -1,0 +1,8 @@
+{
+  "comparator_output": 15,
+  "description": {
+    "translate": "item.deathcordsmpmod.thunder_bringer_music_disc.desc"
+  },
+  "length_in_seconds": 250.0,
+  "sound_event": "deathcordsmpmod:thunder_bringer"
+}

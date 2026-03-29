@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "deathcordsmpmod:item/would_you_fall_in_love_with_me_again_music_disc"
+  }
+}

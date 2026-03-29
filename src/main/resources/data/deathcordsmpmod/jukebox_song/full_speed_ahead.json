@@ -1,0 +1,8 @@
+{
+  "comparator_output": 15,
+  "description": {
+    "translate": "item.deathcordsmpmod.full_speed_ahead_music_disc.desc"
+  },
+  "length_in_seconds": 180.0,
+  "sound_event": "deathcordsmpmod:full_speed_ahead"
+}

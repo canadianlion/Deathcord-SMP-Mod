@@ -1,0 +1,322 @@
+{
+  "the_horse_and_the_infant": {
+    "sounds": [
+      {
+        "name": "deathcordsmpmod:the_horse_and_the_infant",
+        "stream": true
+      }
+    ]
+  },
+  "just_a_man": {
+    "sounds": [
+      {
+        "name": "deathcordsmpmod:just_a_man",
+        "stream": true
+      }
+    ]
+  },
+  "full_speed_ahead": {
+    "sounds": [
+      {
+        "name": "deathcordsmpmod:full_speed_ahead",
+        "stream": true
+      }
+    ]
+  },
+  "open_arms": {
+    "sounds": [
+      {
+        "name": "deathcordsmpmod:open_arms",
+        "stream": true
+      }
+    ]
+  },
+  "warrior_of_the_mind": {
+    "sounds": [
+      {
+        "name": "deathcordsmpmod:warrior_of_the_mind",
+        "stream": true
+      }
+    ]
+  },
+  "polyphemus": {
+    "sounds": [
+      {
+        "name": "deathcordsmpmod:polyphemus",
+        "stream": true
+      }
+    ]
+  },
+  "survive": {
+    "sounds": [
+      {
+        "name": "deathcordsmpmod:survive",
+        "stream": true
+      }
+    ]
+  },
+  "remember_them": {
+    "sounds": [
+      {
+        "name": "deathcordsmpmod:remember_them",
+        "stream": true
+      }
+    ]
+  },
+  "my_goodbye": {
+    "sounds": [
+      {
+        "name": "deathcordsmpmod:my_goodbye",
+        "stream": true
+      }
+    ]
+  },
+  "storm": {
+    "sounds": [
+      {
+        "name": "deathcordsmpmod:storm",
+        "stream": true
+      }
+    ]
+  },
+  "luck_runs_out": {
+    "sounds": [
+      {
+        "name": "deathcordsmpmod:luck_runs_out",
+        "stream": true
+      }
+    ]
+  },
+  "keep_your_friends_close": {
+    "sounds": [
+      {
+        "name": "deathcordsmpmod:keep_your_friends_close",
+        "stream": true
+      }
+    ]
+  },
+  "ruthlessness": {
+    "sounds": [
+      {
+        "name": "deathcordsmpmod:ruthlessness",
+        "stream": true
+      }
+    ]
+  },
+  "puppeteer": {
+    "sounds": [
+      {
+        "name": "deathcordsmpmod:puppeteer",
+        "stream": true
+      }
+    ]
+  },
+  "wouldnt_you_like": {
+    "sounds": [
+      {
+        "name": "deathcordsmpmod:wouldnt_you_like",
+        "stream": true
+      }
+    ]
+  },
+  "done_for": {
+    "sounds": [
+      {
+        "name": "deathcordsmpmod:done_for",
+        "stream": true
+      }
+    ]
+  },
+  "there_are_other_ways": {
+    "sounds": [
+      {
+        "name": "deathcordsmpmod:there_are_other_ways",
+        "stream": true
+      }
+    ]
+  },
+  "the_underworld": {
+    "sounds": [
+      {
+        "name": "deathcordsmpmod:the_underworld",
+        "stream": true
+      }
+    ]
+  },
+  "no_longer_you": {
+    "sounds": [
+      {
+        "name": "deathcordsmpmod:no_longer_you",
+        "stream": true
+      }
+    ]
+  },
+  "monster": {
+    "sounds": [
+      {
+        "name": "deathcordsmpmod:monster",
+        "stream": true
+      }
+    ]
+  },
+  "suffering": {
+    "sounds": [
+      {
+        "name": "deathcordsmpmod:suffering",
+        "stream": true
+      }
+    ]
+  },
+  "different_beast": {
+    "sounds": [
+      {
+        "name": "deathcordsmpmod:different_beast",
+        "stream": true
+      }
+    ]
+  },
+  "scylla": {
+    "sounds": [
+      {
+        "name": "deathcordsmpmod:scylla",
+        "stream": true
+      }
+    ]
+  },
+  "mutiny": {
+    "sounds": [
+      {
+        "name": "deathcordsmpmod:mutiny",
+        "stream": true
+      }
+    ]
+  },
+  "thunder_bringer": {
+    "sounds": [
+      {
+        "name": "deathcordsmpmod:thunder_bringer",
+        "stream": true
+      }
+    ]
+  },
+  "legendary": {
+    "sounds": [
+      {
+        "name": "deathcordsmpmod:legendary",
+        "stream": true
+      }
+    ]
+  },
+  "little_wolf": {
+    "sounds": [
+      {
+        "name": "deathcordsmpmod:little_wolf",
+        "stream": true
+      }
+    ]
+  },
+  "well_be_fine": {
+    "sounds": [
+      {
+        "name": "deathcordsmpmod:well_be_fine",
+        "stream": true
+      }
+    ]
+  },
+  "love_in_paradise": {
+    "sounds": [
+      {
+        "name": "deathcordsmpmod:love_in_paradise",
+        "stream": true
+      }
+    ]
+  },
+  "god_games": {
+    "sounds": [
+      {
+        "name": "deathcordsmpmod:god_games",
+        "stream": true
+      }
+    ]
+  },
+  "not_sorry_for_loving_you": {
+    "sounds": [
+      {
+        "name": "deathcordsmpmod:not_sorry_for_loving_you",
+        "stream": true
+      }
+    ]
+  },
+  "dangerous": {
+    "sounds": [
+      {
+        "name": "deathcordsmpmod:dangerous",
+        "stream": true
+      }
+    ]
+  },
+  "charybdis": {
+    "sounds": [
+      {
+        "name": "deathcordsmpmod:charybdis",
+        "stream": true
+      }
+    ]
+  },
+  "get_in_the_water": {
+    "sounds": [
+      {
+        "name": "deathcordsmpmod:get_in_the_water",
+        "stream": true
+      }
+    ]
+  },
+  "six_hundred_strike": {
+    "sounds": [
+      {
+        "name": "deathcordsmpmod:six_hundred_strike",
+        "stream": true
+      }
+    ]
+  },
+  "the_challenge": {
+    "sounds": [
+      {
+        "name": "deathcordsmpmod:the_challenge",
+        "stream": true
+      }
+    ]
+  },
+  "hold_them_down": {
+    "sounds": [
+      {
+        "name": "deathcordsmpmod:hold_them_down",
+        "stream": true
+      }
+    ]
+  },
+  "odysseus": {
+    "sounds": [
+      {
+        "name": "deathcordsmpmod:odysseus",
+        "stream": true
+      }
+    ]
+  },
+  "i_cant_help_but_wonder": {
+    "sounds": [
+      {
+        "name": "deathcordsmpmod:i_cant_help_but_wonder",
+        "stream": true
+      }
+    ]
+  },
+  "would_you_fall_in_love_with_me_again": {
+    "sounds": [
+      {
+        "name": "deathcordsmpmod:would_you_fall_in_love_with_me_again",
+        "stream": true
+      }
+    ]
+  }
+}

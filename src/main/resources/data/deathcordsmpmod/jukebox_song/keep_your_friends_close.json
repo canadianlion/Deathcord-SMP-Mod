@@ -1,0 +1,8 @@
+{
+  "comparator_output": 15,
+  "description": {
+    "translate": "item.deathcordsmpmod.keep_your_friends_close_music_disc.desc"
+  },
+  "length_in_seconds": 248.0,
+  "sound_event": "deathcordsmpmod:keep_your_friends_close"
+}

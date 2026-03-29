@@ -1,0 +1,8 @@
+{
+  "comparator_output": 15,
+  "description": {
+    "translate": "item.deathcordsmpmod.not_sorry_for_loving_you_music_disc.desc"
+  },
+  "length_in_seconds": 185.0,
+  "sound_event": "deathcordsmpmod:not_sorry_for_loving_you"
+}
