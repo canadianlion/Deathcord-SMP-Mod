@@ -1,6 +1,8 @@
 package net.canadianlion.deathcordsmpmod;
 
+import net.canadianlion.deathcordsmpmod.effects.ModEffects;
 import net.canadianlion.deathcordsmpmod.item.ModItems;
+import net.canadianlion.deathcordsmpmod.potion.ModPotions;
 import net.canadianlion.deathcordsmpmod.sounds.ModSounds;
 import net.fabricmc.api.ModInitializer;
 
@@ -16,6 +18,8 @@ public class DeathcordSMPMod implements ModInitializer {
 	public void onInitialize() {
 		ModItems.registerModItems();
 		ModSounds.registerSounds();
+		ModEffects.registerEffects();
+		ModPotions.registerPotions();
 	}
 
 	public static Identifier id(String path) {

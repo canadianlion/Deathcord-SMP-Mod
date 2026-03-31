@@ -2,6 +2,12 @@
   "painting.deathcordsmpmod.deathcord.title": "Deathcord SMP",
   "painting.deathcordsmpmod.deathcord.author": "DeathlyDallas",
 
+  "effect.deathcordsmpmod.anti_water": "Anti-Water",
+
+  "item.minecraft.potion.effect.anti_water_potion": "Anti-Water Potion",
+  "item.minecraft.splash_potion.effect.anti_water_potion": "Anti-Water Splash Potion",
+  "item.minecraft.lingering_potion.effect.anti_water_potion": "Anti-Water Lingering Potion",
+
   "item.deathcordsmpmod.the_horse_and_the_infant_music_disc": "Music Disc",
   "item.deathcordsmpmod.the_horse_and_the_infant_music_disc.desc": "Jorge Rivera-Herrans - The Horse and the Infant",
   "item.deathcordsmpmod.just_a_man_music_disc": "Music Disc",
